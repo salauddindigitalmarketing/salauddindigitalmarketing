@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Salauddin Ahmed
 
-<!--
-**salauddindigitalmarketing/salauddindigitalmarketing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Marketing Specialist in Dhaka, Bangladesh. I help businesses grow online through SEO, Google Ads, Meta Ads, AI Automation & high-performing content strategies.
 
-Here are some ideas to get you started:
+Currently working as a Digital Marketing Specialist at Ahmed Food Products (Pvt) Ltd.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+
+- Website: https://salauddinahmed.netlify.app/
+- Facebook: https://www.facebook.com/salauddindigitalmarketing/
+- Instagram: https://www.instagram.com/salauddindigitalmarketing/
+- X: https://x.com/salauddindm
+- LinkedIn: https://www.linkedin.com/in/salauddindigitalmarketer/
+- Threads: https://www.threads.com/@salauddindigitalmarketing
+- YouTube: https://www.youtube.com/@salauddindigitalmarketer
+- Fiverr: https://www.fiverr.com/s/43G9Bwb
+- Upwork: https://www.upwork.com/freelancers/~01efeff60550b21174?mp_source=share
